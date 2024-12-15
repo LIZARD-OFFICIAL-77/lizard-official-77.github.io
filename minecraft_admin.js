@@ -1,1 +1,1 @@
-(function(){vm.runtime.ioDevices.userData["_username"] = "griffpatch";})();
+function main(){vm.runtime.ioDevices.userData["_username"] = "griffpatch";}
